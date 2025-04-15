@@ -34,8 +34,7 @@ highlights (a future feature)
 - highlights are saved in local stroage, users are given the option to download the json file, or save to ipfs or load highlights to ipfs
 
 fonts
-- Arial Rounded MT Bold, default for big heading text
-- Arial, default for smaller body text
+- Arial, default
 
 
 ---
