@@ -1,0 +1,82 @@
+{
+  "themes": {
+    "light": {
+      "white": {
+        "color_background": "#FFFFFF",
+        "color_foreground": "#FFFFFF",
+        "blend_mode": "difference",
+        "red_blend_mode": "normal"
+      },
+      "pink": {
+        "color_background": "#FFC8C8",
+        "color_foreground": "#FFFFFF",
+        "blend_mode": "difference",
+        "red_blend_mode": "normal"
+      },
+      "cream": {
+        "color_background": "#FFFDD0",
+        "color_foreground": "#FFFFFF",
+        "blend_mode": "difference",
+        "red_blend_mode": "normal"
+      },
+      "gray": {
+        "color_background": "#CCCCCC",
+        "color_foreground": "#FFFFFF",
+        "blend_mode": "difference",
+        "red_blend_mode": "difference",
+        "red_color": "#FF0000"
+      }
+    },
+    "dark": {
+      "dark": {
+        "color_background": "#333333",
+        "color_foreground": "#FFFFFF",
+        "blend_mode": "difference",
+        "red_blend_mode": "difference",
+        "red_color": "#FF0000"
+      },
+      "green": {
+        "color_background": "#003637",
+        "color_foreground": "#FFFFFF",
+        "blend_mode": "difference",
+        "red_blend_mode": "difference",
+        "red_color": "#FF0000"
+      }
+    }
+  },
+  "default_themes": {
+    "light": "pink",
+    "dark": "green"
+  },
+  "color_red_letters": {
+    "default": {
+      "color": "#F94B4C"
+    },
+    "pure": {
+      "color": "#FF0000"
+    }
+  },
+  "font": {
+    "font_family": "Arial",
+    "font_size": 12,
+    "available_fonts": [
+      "Arial",
+      "Arial Rounded MT Bold",
+      "Helvetica",
+      "Times New Roman",
+      "Times",
+      "Courier New",
+      "Courier",
+      "Verdana",
+      "Georgia",
+      "Palatino",
+      "Garamond",
+      "Bookman",
+      "Tahoma",
+      "Trebuchet MS",
+      "Arial Black",
+      "Impact",
+      "Comic Sans MS"
+    ]
+  }
+}
