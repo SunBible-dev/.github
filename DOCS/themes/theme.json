@@ -4,27 +4,23 @@
       "white": {
         "color_background": "#FFFFFF",
         "color_foreground": "#FFFFFF",
-        "blend_mode": "difference",
-        "red_blend_mode": "normal"
+        "blend_mode": "difference"
       },
       "pink": {
         "color_background": "#FFC8C8",
         "color_foreground": "#FFFFFF",
-        "blend_mode": "difference",
-        "red_blend_mode": "normal"
+        "blend_mode": "difference"
       },
       "cream": {
         "color_background": "#FFFDD0",
         "color_foreground": "#FFFFFF",
-        "blend_mode": "difference",
-        "red_blend_mode": "normal"
+        "blend_mode": "difference"
       },
       "gray": {
         "color_background": "#CCCCCC",
         "color_foreground": "#FFFFFF",
         "blend_mode": "difference",
-        "red_blend_mode": "difference",
-        "red_color": "#FF0000"
+        "red_blend_mode": "difference"
       }
     },
     "dark": {
@@ -32,15 +28,13 @@
         "color_background": "#333333",
         "color_foreground": "#FFFFFF",
         "blend_mode": "difference",
-        "red_blend_mode": "difference",
-        "red_color": "#FF0000"
+        "red_blend_mode": "difference"
       },
       "green": {
         "color_background": "#003637",
         "color_foreground": "#FFFFFF",
         "blend_mode": "difference",
-        "red_blend_mode": "difference",
-        "red_color": "#FF0000"
+        "red_blend_mode": "difference"
       }
     }
   },
@@ -50,10 +44,10 @@
   },
   "color_red_letters": {
     "default": {
-      "color": "#F94B4C"
+      "red_color": "#F94B4C"
     },
     "pure": {
-      "color": "#FF0000"
+      "red_color": "#FF0000"
     }
   },
   "font": {
